@@ -7,10 +7,26 @@ icon: material/palette
 
 Sorted newest first
 
+## ONE DAY
+07/26/2025
+
+[the video](../assets/vid/ONE%20DAY.mp4)
+
+another test, but also a gift for a friend :P
+
+completed in 17 days from storyboard to colour
+
+the file is 11 gb :(
+
+## animation practice
+07/16/2025
+![ari sits by the ocean](../assets/img/art/animation%20practice%20ig.gif)
+test to see what i can do with animation, and how quickly
+
 ## plot significant possibly illustration
 06/04/2025
 ![ari crying in a ruined temple sitting across from a statue](../assets/img/art/crying.png)
-might use this in [Chronicles of the Aethein](https://ratseerofrattesse.github.io/COAWiki). digitized version of below
+might use this in [Chronicles of the Aethein](https://ratseerofrattesse.github.io/COAWiki). digitized version of below`
 
 ## plot significant sketch
 06/29/2025
