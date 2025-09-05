@@ -2,7 +2,7 @@
 description: Art by RatseerOfRattesse
 ---
 
-# COA Chapter Illustrations
+# COA Concept Art
 
 *Sorted newest first*
 
