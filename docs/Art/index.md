@@ -7,6 +7,11 @@ icon: material/palette
 
 Sorted newest first
 
+## wildberry
+09/04/2025
+![two weirdos chat in the light of a streetlamp along a dreary forest path](../assets/img/art/wildberry.png)
+just a cute appetizer piece for me before going back to work on big stuff
+
 ## ONE DAY
 07/26/2025
 
