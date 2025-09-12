@@ -48,6 +48,9 @@ extra:
     - icon: material/alpha-r-circle-outline
       link: https://www.royalroad.com/profile/725311
       name: "Royalroad"
+    - icon: material/youtube
+      link: https://www.youtube.com/@RatseerOfRattesse
+      name: "YouTube"
 extra_css:
   - stylesheets/extra.css
 copyright: Copyright &copy; 2025 RatseerOfRattesse
