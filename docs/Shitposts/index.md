@@ -7,8 +7,12 @@ icon: fontawesome/regular/message
 
 A bunch of random crap I made.
 
+## live laugh coob
+![red coob sits before a waterfall, captioned live laugh coob](../assets/img/shitposts/live%20laugh%20coob.png "LIVE LAUGH COOB")
+went on a hiking trip with some friends and we made this
+
 ## pier poultry
-![pier polyiev with a chiken for a body](../assets/img/shitposts/pierre%20poultry.png "HE YEARNS FOR THE PRIMES"){640px:360px}
+![pier polyiev with a chiken for a body](../assets/img/shitposts/pierre%20poultry.png "chicken")
 not a political statement
 
 my friend mispoke and now this exists 
@@ -18,7 +22,8 @@ my friend mispoke and now this exists
 
 he YEARNS FOR THE PRIMES
 
-##a minecraft movie = SONGS OF WAR SEASON 2?????
+## a minecraft movie = SONGS OF WAR SEASON 2?????
+
 ![A buncho red string and pictures of the minecraft movie trailer with songs of war screenshots'](../assets/img/shitposts/definitely%20not%20schizo.png "protisium prime = tesseract thingy???")
 
 guys im not schizo

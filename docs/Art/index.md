@@ -7,6 +7,25 @@ icon: material/palette
 
 Sorted newest first
 
+## we're so back
+09/15/2025
+![two weirdos hanging out in oddly eerie train car](../assets/img/art/we're%20so%20back.gif)
+bessssstttttttttt friends
+
+why's it look so eerie? no idea
+
+they're not about to get murdered
+
+## lasagne behavoiur
+09/12/2025
+![two ghosts haunt a window while drawling 'lasagne'](../assets/img/art/ghosties.png)
+garfield kart is better than mario kart
+
+## domestic violence
+09/09/2025
+![ari and bia angy at each other in multicolour lighting](../assets/img/art/angy.png)
+i did not end up working on the big stuff. this was inspired by a piece by zeniyan
+
 ## wildberry
 09/04/2025
 ![two weirdos chat in the light of a streetlamp along a dreary forest path](../assets/img/art/wildberry.png)

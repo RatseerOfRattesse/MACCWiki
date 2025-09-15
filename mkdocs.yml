@@ -55,6 +55,10 @@ extra_css:
   - stylesheets/extra.css
 copyright: Copyright &copy; 2025 RatseerOfRattesse
 plugins:
+  - blog:
+      post_date_format: short
+      post_excerpt: required
+      post_readtime: true
   - meta
   - search:
       pipeline:
