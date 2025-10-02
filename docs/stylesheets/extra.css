@@ -50,3 +50,10 @@ ul, ol {
     margin: .1rem;
     padding: .2rem;
 }
+
+body {
+    background-image: url('../assets/img/misc/wildberries.png');
+    background-repeat: repeat;
+    background-position: center center;
+    background-size: cover;
+}

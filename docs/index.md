@@ -6,7 +6,7 @@ icon: fontawesome/solid/house
 
 # RatseerOfRattesse
 
-![weird guy](assets/img/misc/pfp.png)
+![yippee](assets/img/art/we're%20so%20back.gif)
 
 ## About Me
 Yoy! Hi! Hello! Those are all the same language!
