@@ -31,7 +31,7 @@ I'm not going to go into it because it was repetitive and annoying. Suffice to s
 
 When we were done... the texts in that conversation sound like the words of drunks. Probably the closest to being high I've ever gotten.
 
-Here's some messages from that night.
+Here's some messages from that night
 
 ![](../../assets/img/misc/british%20man%20food.png)
 ![](../../assets/img/misc/the%20milk%20is%20orange.png)
