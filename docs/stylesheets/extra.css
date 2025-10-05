@@ -152,15 +152,25 @@ html .md-footer-meta.md-typeset a {
 .md-content {
     background: hsl(340deg 82.04% 51.96% / 32%);
     flex-grow: 1;
-    min-width: 0
+    min-width: 0;
 }
 
 /* heading colours were weird */
 .md-typeset h1 {
     color: #ffffff;
+    font-size: 6em;
+    line-height: 1;
+    margin: 0 0 0;
 }
 
+/* sidebar alignment */
 .md-sidebar {
     padding: 0rem 0;
     order: 1;
+}
+
+/* main content alignment */
+.md-grid {
+    margin-left: 10vw;
+    max-width: 70;
 }
