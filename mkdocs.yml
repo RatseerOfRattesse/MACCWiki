@@ -37,6 +37,7 @@ theme:
     - search.share
     - search.suggest
     - toc.follow
+    - toc.integrate
 extra:
   social:
     - icon: octicons/code-16

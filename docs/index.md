@@ -24,6 +24,7 @@ Alternately, email me at ratseerofrattesse@gmail.com.
 - I love jokingly acting as if media I like is a whole damn religion (JOKINGLY)
 - I use a lot of slang from different cultures
 - I am the cringe and the cringe is me
+- Deal with it, bi-
 
 ## My Interests
 
