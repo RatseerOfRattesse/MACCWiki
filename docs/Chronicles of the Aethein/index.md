@@ -1,5 +1,5 @@
 ---
-description: Shitposts by RatseerOfRattesse
+description: CoA by RatseerOfRattesse
 icon: material/book
 ---
 

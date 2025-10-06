@@ -7,20 +7,9 @@ theme:
   favicon: assets/favicon.png
   custom_dir: overrides
   palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: pink
-      accent: purple
-      toggle:
-        icon: material/eye
-        name: Switch to dark mode
-    - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: pink
       accent: purple
-      toggle:
-        icon: material/eye-outline
-        name: Switch to light mode
   icon:
     repo: fontawesome/brands/git-alt
   features:
@@ -66,6 +55,9 @@ plugins:
         - stemmer
         - stopWordFilter
         - trimmer
+  - redirects:
+      redirect_maps:
+        'Chronicles of the Aethein/index.md': https://ratseerofrattesse.github.io/COAWiki
 markdown_extensions:
   - abbr
   - attr_list
@@ -112,3 +104,18 @@ extra_javascript:
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 site_url: https://ratseerofrattesse.github.io
 repo_url: https://github.com/RatseerOfRattesse/ratseerofrattesse.github.io
+nav:
+  - Home:
+      - index.md
+  - Art:
+      - Art/index.md
+  - Chronicles of the Aethein:
+      - Chronicles of the Aethein/index.md
+  - Choose To Lose:
+      - Choose To Lose/index.md
+  - Mods:
+      - Mods/index.md
+  - Other:
+      - Other/index.md
+  - Shitposts:
+      - Shitposts/index.md
