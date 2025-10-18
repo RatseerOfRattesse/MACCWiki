@@ -45,4 +45,5 @@ Disallow:/
 User-agent: Googlebot
 Allow: /
 
+Sitemap: https://ratseerofrattesse.github.io/sitemap.xml
 Sitemap: https://ratseerofrattesse.github.io/COAWiki/sitemap.xml
