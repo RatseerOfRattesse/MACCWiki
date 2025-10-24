@@ -52,7 +52,7 @@ ul, ol {
 }
 
 body {
-    background-image: url('../assets/img/misc/wildberries.png');
+    background-image: url('../assets/background.png');
     background-repeat: repeat;
     background-position: center center;
     background-size: cover;
