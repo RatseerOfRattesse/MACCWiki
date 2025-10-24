@@ -1,9 +1,9 @@
-site_name: RatseerOfRattesse
-site_description: Homepage for all my stuff
-site_author: RatseerOfRattesse
+site_name: MACC Wiki
+site_description: A wiki for MACCs, by MACCs.
+site_author: RatseerOfRattesse, Jarnu47
 theme:
   name: material
-  logo: assets/logo.png
+  logo: assets/logo.svg
   favicon: assets/favicon.png
   custom_dir: overrides
   palette:
@@ -31,24 +31,20 @@ extra:
   social:
     - icon: octicons/code-16
       link: https://github.com/RatseerOfRattesse
-      name: "Github"
+      name: "Ratseer's Github"
     - icon: material/wrench
       link: https://modrinth.com/user/RatseerOfRattesse
-      name: "Modrinth"
+      name: "Ratseer's Modrinth"
     - icon: material/alpha-r-circle-outline
       link: https://www.royalroad.com/profile/725311
-      name: "Royalroad"
+      name: "Ratseer's Royalroad"
     - icon: material/youtube
       link: https://www.youtube.com/@RatseerOfRattesse
-      name: "YouTube"
+      name: "Ratseer's YouTube"
 extra_css:
   - stylesheets/extra.css
-copyright: Copyright &copy; 2025 RatseerOfRattesse
+copyright: Copyright &copy; 2025 RatseerOfRattesse & Jarnu47
 plugins:
-  - blog:
-      post_date_format: short
-      post_excerpt: required
-      post_readtime: true
   - meta
   - search:
       pipeline:
@@ -102,25 +98,5 @@ markdown_extensions:
 extra_javascript:
   - javascripts/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
-site_url: https://ratseerofrattesse.github.io
-repo_url: https://github.com/RatseerOfRattesse/ratseerofrattesse.github.io
-nav:
-  - Home:
-      - index.md
-  - Art:
-      - Art/index.md
-      - Art/COA Chapter Illustrations.md
-      - Art/COA Concept Art.md
-      - Art/The Seven Deadly Insecurities.md
-  - Chronicles of the Aethein:
-      - Chronicles of the Aethein/index.md
-  - Choose To Lose:
-      - Choose To Lose/index.md
-  - Blog:
-      - blog/index.md
-  - Mods:
-      - Mods/index.md
-  - Other:
-      - Other/index.md
-  - Shitposts:
-      - Shitposts/index.md
+site_url: https://ratseerofrattesse.github.io/MACCWiki
+repo_url: https://github.com/RatseerOfRattesse/MACCWiki
