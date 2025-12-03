@@ -14,4 +14,4 @@ icon: material/school
 
 *Self explanatory.*
 
-Jarnman, Rat, Chuck, Ryan, and Hez's: [MP4](../assets/doc/examples/MurderPartyDMA2023_24_BLOOPERS.mp4)
+Jarnman, Rat, Chuck, Ryan, and Hez's: [MP4](https://1drv.ms/v/c/f339d84c4e743d8b/EaS0z9kf7clOrlSydAQL94wB4bdkJEhF7ItEodNRK4S8YQ?e=zPuCd5)

@@ -9,8 +9,6 @@ icon: fontawesome/solid/house
 
 This is a dochub made for the preservation of memories for the Garlic Gang and extended MACC 2022-2025 group of Kway.
 
-To get you started:
-
 <div class="grid cards" markdown>
 
 -   :material-comment-quote-outline:{ .lg .middle } __Quotes__

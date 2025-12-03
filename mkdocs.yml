@@ -56,6 +56,12 @@ plugins:
         'Chronicles of the Aethein/index.md': https://ratseerofrattesse.github.io/COAWiki
   - mkdocs-video:
       is_video: true
+  - encryptcontent:
+      title_prefix: ''
+      global_password: 'have you heard of our lord and saviour liam vickers'
+      hljs: True
+      arithmatex: True
+      mermaid2: True
 markdown_extensions:
   - abbr
   - attr_list
@@ -102,3 +108,6 @@ extra_javascript:
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 site_url: https://ratseerofrattesse.github.io/MACCWiki
 repo_url: https://github.com/RatseerOfRattesse/MACCWiki
+validation:
+  links:
+    absolute_links: relative_to_docs
