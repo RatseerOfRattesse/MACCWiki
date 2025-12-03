@@ -86,8 +86,6 @@ icon: material/image-frame
 
 ![](../../assets/img/cheese.webp){: style="height: 40vw;"}
 
-![](../../assets/img/){: style="height: 40vw;"}
-
 ![](../../assets/img/free%20pp.webp){: style="height: 40vw;"}
 
 ![](../../assets/img/Arjun_jason_nickname.webp){: style="height: 40vw;"}

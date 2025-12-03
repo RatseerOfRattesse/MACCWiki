@@ -16,602 +16,1148 @@ icon: material/comment-quote-outline
 
 ## PMSS Era
 
-- "For someone so sped you sure are slow." - Ruby 2025
+!!! ruby
 
-- “Incest is powerful magic.” - Ethan 2025
+    "For someone so sped you sure are slow."
 
-- 'It is a child, it should be able to kill itself' - Kayden 2025
+!!! ethan
 
-- "Every time you say 6-7, we stray further from God." - Wall 2025
+    “Incest is powerful magic.” 
 
-- "I'm not a vampire, I'm a racist, there's a difference." - Lochlan 2025
+!!! kayden
+    
+    'It is a child, it should be able to kill itself' 
 
-- "guys" - Ethan
+!!! teacher "Ms. Wall"
+    
+    "Every time you say 6-7, we stray further from God."
 
-    - "is it school appropriate to say donald trump has a small dick in a presentation to prove the destructive capabilities of relatively small objects" - Ethan 2025
+!!! lochlan
+    
+    "I'm not a vampire, I'm a racist, there's a difference." 
 
-- "I'm like your morphine." - Lochlan 2025
+!!! ethan
+
+    "guys"
+
+    "is it school appropriate to say donald trump has a small dick in a presentation to prove the destructive capabilities of relatively small objects" 
+
+!!! lochlan
+
+    "I'm like your morphine." 
 
 ## Kway Era
 
-- "For hobbies, I wrote "Beating your meat"" - Arjun 2024
+!!! arjun
 
-- "I want to see cool balls" - Kayden 2024
+    "For hobbies, I wrote 'Beating your meat'" 
 
-- "I have the power of the chaos emeralds" - Ruby 2024
+!!! kayden
+    
+    "I want to see cool balls" 
 
-- "Nika, we found your boyfriend's Jacket" - Ruby 2024
+!!! ruby
 
-    - "… Dazai?" - Nika
+    "I have the power of the chaos emeralds" 
 
-- "now excuse me while I trace this chair" - Ruby 2024
+!!! ruby
 
-- "SNEAKY SUSSY BOI" - Dan 2022
+    "Nika, we found your boyfriend's Jacket" 
+    
+        "… Dazai?" Nika
 
-- "Your parents should've worn protection" - Michael 2024
+!!! ruby
 
-- "I am a master at baiting" - Arjun 2024
+    "now excuse me while I trace this chair" 
 
-- "Just like your mom" - Ethan 2024
+!!! misc "Dan"
+    
+    "SNEAKY SUSSY BOI"
 
-- "How do you spell E" - Lucas 2024
+!!! michael
+    
+    "Your parents should've worn protection" 
 
-- "The best organs to sell are…" - George 2023
+!!! arjun
+    
+    "I am a master at baiting" 
 
-- "The best orphans are made, not found" - Ethan 2024
+!!! ethan
 
-- "If you are bored, punch an orphan. What are they going to do? Tell their parents?" - Ruby 2024
+    "Just like your mom" 
 
-- "Sometimes the best move is a bad move" - Arjun 2024
+!!! misc "Lucas"
+    
+    "How do you spell E"
 
-- "5 + 5 = … Oh shi-" - Kayden 2024
+!!! george
+    
+    "The best organs to sell are…" 
 
-- "shove it in his mouth" - George 2024
+!!! ethan
+    
+    "The best orphans are made, not found" 
 
-- "That was before we had an ironsmith" - George 2024
+!!! ruby
 
-- "I have a belly button lint collection I started back in '82." - Arjun 2024 (this totally happened)
+    "If you are bored, punch an orphan. What are they going to do? Tell their parents?" 
 
-- "Arjun is sus. " - Michael and Jonathan 2022- ∞
+!!! arjun
+    
+    "Sometimes the best move is a bad move" 
 
-- "Gay testicles" - Ian
+!!! kayden
+    
+    "5 + 5 = … Oh shi-" 
 
-- "i'm not a pedophile, i'm a terrorist" - Ethan 2024
+!!! george
+    
+    "shove it in his mouth" 
 
-- "The Warden never saw me!" - Arjun 2024
+!!! george
+    
+    "That was before we had an ironsmith" 
 
-- "I want to sleep with Benjamin" - Hez 2024
+!!! arjun
+    
+    "I have a belly button lint collection I started back in '82."  (this totally happened)
 
-- "-100 would be the base line for average stupidity, since you are now forgetting things at the average rate it takes for you to be a retard" - Ruby 2024
+!!! misc "Michael and Jonathan"
+    
+    "Arjun is sus. "
 
-- "Sure Winston Churchill wasn't the best U.S. president" - Ruby 2024
+!!! misc "Ian"
+    
+    "Gay testicles"
 
-- "Will you go on a date with me?" - Arjun 2024
+!!! ethan
+    
+    "i'm not a pedophile, i'm a terrorist" 
 
-- "Isn't the fourth president on Mount Rushmore J.F.K. or something?" - Kayden 2024
+!!! arjun
+    
+    "The Warden never saw me!" 
 
-- "I'll turn into a dictator and kill everyone" - Arjun 2024
+!!! hez
+    
+    "I want to sleep with Benjamin" 
 
-- "I want my well-deserved 4" - Joyce 2024
+!!! ruby
 
-- "Grrr, daddy" - Ivy 2024
+    "-100 would be the base line for average stupidity, since you are now forgetting things at the average rate it takes for you to be a retard" 
 
-- "Kiss me on my hot lips" - Jodi 2024
+!!! ruby
 
-- "I have no 'real' friends in this class" - Ruby 2024
+    "Sure Winston Churchill wasn't the best U.S. president" 
+
+!!! arjun
+    
+    "Will you go on a date with me?" 
+
+!!! kayden
+    
+    "Isn't the fourth president on Mount Rushmore J.F.K. or something?" 
+
+!!! arjun
+    
+    "I'll turn into a dictator and kill everyone" 
+
+!!! joyce
+    
+    "I want my well-deserved 4" 
+
+!!! misc "Ivy"
+    
+    "Grrr, daddy"
 
-- "youre shaped like a rod of galvanized square steel produced in the heart of the indian motherland" - Jack 2024
+!!! misc "Jodi"
+    
+    "Kiss me on my hot lips"
 
-- "sitting on pinocchio's face and getting him to lie could be a form of torture" - Jack 2024
+!!! ruby
+    
+    "I have no 'real' friends in this class" 
 
-- "i just inflated Western Easterner's balls with a turkey baster, they're about to pop" - Jack 2024
+!!! jack
+    
+    "youre shaped like a rod of galvanized square steel produced in the heart of the indian motherland" 
 
-- "spoopy choir noises" - Ethan 2024
+!!! jack
+    
+    "sitting on pinocchio's face and getting him to lie could be a form of torture" 
 
-- "from the depths of online chinese homework, the monkey king hath returned" - Ethan 2024
+!!! jack
+    
+    "i just inflated Wesley's balls with a turkey baster, they're about to pop" 
 
-    - "WITH A BIG LONG STICK STUCK IN YOUR EAR" - Allen
+!!! ethan
+    
+    "spoopy choir noises" 
 
-    - "你这个猴子，吃我一棒!" - Ethan
+!!! ethan
+    
+    "from the depths of online chinese homework, the monkey king hath returned" 
 
-    - "gulp gulp gulp" - Allen 2024
+    !!! misc "Allen"
+    
+        "WITH A BIG LONG STICK STUCK IN YOUR EAR"
 
-- "did you just call your teacher muscular man??" - Shelly 2024
+    !!! ethan
+    
+        "你这个猴子，吃我一棒!"
 
-- "china" - Tay 2024
+    !!! misc "Allen"
+    
+        "gulp gulp gulp"
 
-- "i bet nicoles gonna stare at that forever" - Tay 2024
+!!! misc "Shelly"
+    
+    "did you just call your teacher muscular man??"
 
-- "aww what did he do?" - Jason 21 2024
+!!! misc "Tay"
+    
+    "china"
 
-- "yeah, can we see ur nicolas collection" - Jason 21 2024
+!!! misc "Tay"
+    
+    "i bet nicoles gonna stare at that forever" 
 
-- "ap the what fucken is henn" - Shelly 2024
+!!! jason21
+    
+    "yeah, can we see ur nicolas collection" 
 
-- "god > goku" - Jason 21 2024
+!!! misc "Shelly"
+    
+    "ap the what fucken is henn" 
 
-- "this used to be the 'get jason women group'" - Ethan 2024
+!!! jason21
+    
+    "god > goku" 
 
-- "I touched George and I'm not gay." - Arjun 2024
+!!! ethan
+    
+    "this used to be the 'get jason women group'" 
 
-- "-activate the balls-" - Verga 2024
+!!! arjun
+    
+    "I touched George and I'm not gay." 
 
-- "Then I can finally stab Emily." - Chuck 2024
+!!! teacher "Mr. Verga"
+    
+    "-activate the balls-"
+    
+!!! chuck
 
-    - "Where d'you wanna stab her?" - Ethan 2024
+    "Then I can finally stab Emily." 
 
-    - "Fuck off." - Chuck
+    !!! ethan
+    
+        "Where d'you wanna stab her?" 
 
-- "I love shoving animals into my pan- INTO THE UNKNOWN" - Chuck 2024
+    !!! chuck
+    
+        "Fuck off." Chuck
 
-- "Game is game. If there's a hole, there's a goal." - Chuck 2024
+!!! chuck
+    
+    "I love shoving animals into my panINTO THE UNKNOWN" 
 
-- "你爸爸去买牛奶就再也没有回来" - Ruby 2024
+!!! chuck
+    
+    "Game is game. If there's a hole, there's a goal." 
 
-- "I'm not racist. I think every race is equal. Even the bad ones." -Ruby 2024
+!!! ruby
 
-- "6 foot furry friend." - Chuck 2024
+    "你爸爸去买牛奶就再也没有回来" 
 
-- "Will Jason 21 be a rapist in the future?" - Ruby 2024
+!!! ruby
 
-- "Cancer isn't even that rare!" - Chuck 2024
+    "I'm not racist. I think every race is equal. Even the bad ones."
 
-- "It does have more flavour. The juice is good." - Ethan 2024
+!!! chuck
+    
+    "6 foot furry friend." 
 
-- "That human looks long and squishy and flabby." - Toral 2024
+!!! chuck
+    
+    "Cancer isn't even that rare!" 
 
-- "Grr, grass." - Toral 2024
+!!! ethan
+    
+    "It does have more flavour. The juice is good." 
 
-- "Is the baby outside of wetlock" - Ruby 2024
+!!! misc "Toral"
+    
+    "That human looks long and squishy and flabby."
 
-- "he's kinda anatomically incorrect" - Ethan 2024
+!!! misc "Toral"
+    
+    "Grr, grass."
 
-- "Fuck me" - Ethan 2024
+!!! ruby
 
-- "he looks like an inbred version of napoleon and Thomas Wedders" - Ruby 2024
+    "Is the baby outside of wetlock" 
 
-- "is that my guy fatsleazycockyasianman august from elementary" - Ethan 2024
+!!! ethan
+    
+    "he's kinda anatomically incorrect" 
 
-- "how big" - Arjun 2024
+!!! ethan
+    
+    "Fuck me" 
 
-- "I love Mira" - Jason 21 2024
+!!! ruby
 
-- "Chairs are overrated" - Ruby 2024
+    "he looks like an inbred version of napoleon and Thomas Wedders" 
 
-- "I like floods" - Cupit 2024
+!!! ethan
+    
+    "is that my guy fatsleazycockyasianman august from elementary" 
 
-- "I could fuck Emily if I wanted to" - Jodi 2024
+!!! arjun
+    
+    "how big"  
 
-- "It's idiot proof but not dumbass proof" - Arjun 2024
+!!! jason21
+    
+    "I love Mira" 
 
-- "I'd tape you to my balls so you'd never leave me." - Jack 2024
+!!! ruby
 
-- "We'd be fucking each other left and right." - Ethan 2024
+    "Chairs are overrated" 
+    
+!!! teacher "Mr. Cupit"
 
-- "welcome to the liamverse" - Ethan 2024
+    "I like floods"
 
-- "where is the sun" - Kaia 2024
+!!! misc "Jodi"
+    
+    "I could fuck Emily if I wanted to"
 
-- "Donald Trump is orange. Michael looks more like Trump than me. I'm white and he's yellow" - Nolan 2024
+!!! arjun
+    
+    "It's idiot proof but not dumbass proof" 
 
-- "You're not even part of M- OW" - Arjun 2024
+!!! jack
+    
+    "I'd tape you to my balls so you'd never leave me." 
 
-    - "You're not even part of- oh shit" - Ethan
+!!! ethan
+    
+    "We'd be fucking each other left and right." 
 
-- "I do stuff at night." - Hez 2024
+!!! ethan
+    
+    "welcome to the liamverse" 
 
-- "I expected it to be bigger." - Hez 2024
+!!! misc "Kaia"
+    
+    "where is the sun"
 
-- "Because he wanted to suck it." - Emilia 2024
+!!! misc "Nolan"
+    
+    "Donald Trump is orange. Michael looks more like Trump than me. I'm white and he's yellow"
 
-- "Why do you want to know how long it is?" - Arjun 2024
+!!! arjun
+    
+    "You're not even part of M - OW" 
 
-- "My gyatt was scorched." - Arjun 2024
+    !!! ethan
+    
+        "You're not even part of - oh shit"
 
-- "I don't care if you see, as long as you do not see my cock" - Eric 2023
+!!! hez
+    
+    "I do stuff at night." 
 
-- "Hitler went to art school, he's a civilized guy" - Ethan 2024
+!!! hez
+    
+    "I expected it to be bigger." 
 
-- "Grab the wheel and spin it hard???" - Joyce 2024
+!!! misc "Emilia"
+    
+    "Because he wanted to suck it."
 
-- "You're squeezing it too hard" - Jason 22 2024
+!!! arjun
+    
+    "Why do you want to know how long it is?" 
 
-- "the stick figures from extra history are hot- I mean what" - Ruby 2024
+!!! arjun
+    
+    "My gyatt was scorched." 
 
-- "Love me." - Arjun 2024
+!!! misc "Eric"
+    
+    "I don't care if you see, as long as you do not see my cock"
 
-- "My portal is in my hole." - Arjun 2024
+!!! ethan
+    
+    "Hitler went to art school, he's a civilized guy" 
 
-    - "I'm also gonna be putting a railway up into your hole." - Ethan
+!!! joyce
+    
+    "Grab the wheel and spin it hard???" 
 
-- "My pick is silky." - Arjun 2024
+!!! misc "Jason 22"
+    
+    "You're squeezing it too hard"
 
-- "you don't need to grind" - Hez 2024
+!!! ruby
 
-- "now Jack can't see Emily in a bikini" - Nicole 2024
+    "the stick figures from extra history are hotI mean what" 
 
-- "I will be putting villagers into my hole." - Arjun 2024
+!!! arjun
+    
+    "Love me." 
 
-- "Get on the bed." - Arjun 2024
+!!! arjun
+    
+    "My portal is in my hole." 
 
-- "Also, i now have a plush of the pink godkiller himself now" - Ruby 2024
+    !!! ethan
+        
+        "I'm also gonna be putting a railway up into your hole." Ethan
 
-- "Spongebob is secretly a mob boss" - Ruby 2024
+!!! arjun
+    
+    "My pick is silky." 
 
-- "There is a limit to stupidity- but some limits are hard to hit" - Arjun 2024
+!!! hez
+    
+    "you don't need to grind" 
 
-- "bullying isn't real" - Jonathan 2024
+!!! misc "Nicole"
+    
+    "now Jack can't see Emily in a bikini"
 
-- "Mao zedong invented mewing" - Ethan 2024
+!!! arjun
+    
+    "I will be putting villagers into my hole." 
 
-- "respect is just a nicer word for obedience used by those who believe themselves superior" - Ethan 2024
+!!! arjun
+    
+    "Get on the bed." 
 
-- "rhetorical my ass" - Arjun
+!!! ruby
 
-    - "What ass" - Hez
+    "Also, i now have a plush of the pink godkiller himself now" 
 
-    - "I thought you gave it away last Christmas" - Hez 2024
+!!! ruby
 
-- "I identify as a female! You wouldn't dare hit a woman!" - Kayden 2024
+    "Spongebob is secretly a mob boss" 
 
-- "Because the Earth is a sphere, the strongest and densest three-dimensional shape, it generates gravity as an Channi." - Channi 2024
+!!! arjun
+    
+    "There is a limit to stupidity but some limits are hard to hit" 
 
-- "I am in a quantum gay superposition of being gay." - George 2024
+!!! misc "Jonathan"
+    
+    "bullying isn't real"
 
-- "Would you rather be part of the Taliban or-" - Max 2024
+!!! ethan
+    
+    "Mao zedong invented mewing"
 
-    - "What's a tally band?" - George 2024
+!!! arjun
+    
+    "rhetorical my ass"
 
-- "if he leak i leak" - Arjun 2024
+    !!! hez
+    
+        "What ass"
 
-- "get him out of her" - Arjun 2024
+    !!! hez
+    
+        "I thought you gave it away last Christmas" 
 
-- "Why is it black?!" - Max 2024
+!!! kayden
+    
+    "I identify as a female! You wouldn't dare hit a woman!"  
 
-- "Oh shit ponders a real word" - Shelly 2024
+!!! channi
+    
+    "Because the Earth is a sphere, the strongest and densest three-dimensional shape, it generates gravity as an intellectual force." 
 
-- "How gay do you have to be to consider yourself gay?" - George 2024
+!!! george
+    
+    "I am in a quantum gay superposition of being gay." 
 
-- "Most of us don't have ears and can't see." - Ethan 2024
+!!! max
+    
+    "Would you rather be part of the Taliban or-" 
 
-- "He's like, not a virgin twice now - like, one from the gay, and the regular" - George 2024
+    !!! george
+    
+        "What's a tally band?" 
 
-- "Ah, why's it white? I need it to be black!" - Max 2024
+!!! arjun
+    
+    "if he leak i leak" 
 
-- "well i like mine nice and big" - Arjun 2024
+!!! arjun
+    
+    "get him out of her" 
 
-- "new jesus lore unlocked" - Ethan 2024
+!!! max
+    
+    "Why is it black?!" 
 
-- "you're in the middle of the ppl" - Jack 2024
+!!! misc "Shelly"
+    
+    "Oh shit ponders a real word"
 
-- "Shoot your shot like you're a drunk driver and you just spotted a family" - Max 2024
+!!! george
+    
+    "How gay do you have to be to consider yourself gay?" 
 
-- "If you don't take her I'll take you" - George 2024
+!!! ethan
+    
+    "Most of us don't have ears and can't see." 
 
-- "We know the rizz tips but we can't rizz" - Max 2024
+!!! george
+    
+    "He's like, not a virgin twice now like, one from the gay, and the regular" 
 
-- "I am the LGBTQ" - George 2024
+!!! max
+    
+    "Ah, why's it white? I need it to be black!" 
 
-- "H-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-how dare y-yy-yy-y-y-y-y-y-y-y-y-y-y-y-yy-y-you say that, ratiseki kun…" - Max
+!!! arjun
+    
+    "well i like mine nice and big" 
 
-    - "I-i-i-i-i-i-i-i-i-i-i-i-i-i-i-i-i-i-i-i-i-ii-i-i-i would never give up on joyzuki san no m-m-m-m-m-m-m-m—m-m-m-m-m-m-m-m-m-m-matter what." - Max 2024
+!!! ethan
+    
+    "new jesus lore unlocked" 
 
-- "That's the asian sneeze." - George 2024
+!!! jack
+    
+    "you're in the middle of the ppl" 
 
-- "This is the sleigh of communism bro" - Ethan 2024
+!!! max
+    
+    "Shoot your shot like you're a drunk driver and you just spotted a family" 
 
-- "It smells like clean" - Lochlan 2024
+!!! george
+    
+    "If you don't take her I'll take you" 
 
-- "I'm sleep-excersizing with Western Easterner" - Max 2024
+!!! max
+    
+    "We know the rizz tips but we can't rizz" 
 
-- "Oh, I can squirt." - Max 2024
+!!! george
+    
+    "I am the LGBTQ" 
 
-- "Jason, you're literally African - there's so much water!" - Jack 2024
+!!! max
+    
+    "H-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-h-how dare y-yy-yy-y-y-y-y-y-y-y-y-y-y-y-yy-y-you say that, ratiseki kun…" Max
+    
+    "I-i-i-i-i-i-i-i-i-i-i-i-i-i-i-i-i-i-i-i-i-ii-i-i-i would never give up on joyzuki san no m-m-m-m-m-m-m-m—m-m-m-m-m-m-m-m-m-m-matter what." 
 
-- "Step 1: suck ass" - Kayden 2024
+!!! george
+    
+    "That's the asian sneeze." 
 
-- "Does Santa have a weight loss program?" - Kayden 2024
+!!! ethan
+    
+    "This is the sleigh of communism bro" 
 
-- "While you're havin' diabetes type two, I'M HAVING DIABETES TYPE THREE" - Kayden 2024
+!!! lochlan
+    
+    "It smells like clean" 
 
-- "Gay porn is underrated." - Max 2024
+!!! max
+    
+    "I'm sleep-excersizing with Wesley" 
 
-- "friendship is ✨magic✨" - Ethan 2024
+!!! max
+    
+    "Oh, I can squirt." 
 
-- "They called him… Fucksinger." - Ethan 2024
+!!! jack
+    
+    "Jason, you're literally African there's so much water!" 
 
-- "i feel using a few words would be more effective at poking someone's ego than a pack of furry art" - Ethan 2024
+!!! kayden
+    
+    "Step 1: suck ass" 
 
-- "Those are CIA agents ready to assassinate the furries" - Ruby 2024
+!!! kayden
+    
+    "Does Santa have a weight loss program?" 
 
-- "we should have the seven autistic insecurities, it's like the seven deadly sins but MACC students" - Ethan 2024
+!!! kayden
+    
+    "While you're havin' diabetes type two, I'M HAVING DIABETES TYPE THREE" 
 
-- "the moment Max stopped calling Arjun unshippable was the moment Max entered the genocide run and Arjun entered the joker arc" - Ethan 2024
+!!! max
+    
+    "Gay porn is underrated." 
 
-- "Guys have you ever considered the fact that Communism is a thing" - Hez 2024
+!!! ethan
+    
+    "friendship is ✨magic✨" 
 
-- "Jason 21’s just a dick consistently. ironically, he doesn't physically have one" - Ethan 2024
+!!! ethan
+    
+    "They called him… Fucksinger." 
 
-- "there is no sane person on this earth who jumps like a fucking anime girl at a donald trump rally" - Ethan 2024
+!!! ethan
+    
+    "i feel using a few words would be more effective at poking someone's ego than a pack of furry art" 
 
-- "isnt pocket dimension a minecraft version" - Max 2024
+!!! ruby
 
-- "GUYS I LOVE CREAM" - Ethan 2025
+    "Those are CIA agents ready to assassinate the furries" 
 
-- "Fuck her of course" - Ruby 2025
+!!! ethan
+    
+    "we should have the seven autistic insecurities, it's like the seven deadly sins but MACC students" 
 
-- "Which one is the coloured Joker?" - George
+!!! ethan
+    
+    "the moment Max stopped calling Arjun unshippable was the moment Max entered the genocide run and Arjun entered the joker arc" 
 
-    - "You are!" - Hez 2025
+!!! hez
+    
+    "Guys have you ever considered the fact that Communism is a thing" 
 
-- "I wish I overdosed on Xanax." - Jason 22 2025
+!!! ethan
+    
+    "Jason 21’s just a dick consistently. ironically, he doesn't physically have one" 
 
-- "George, do you want to date a gay person?" - Max
+!!! ethan
+    
+    "there is no sane person on this earth who jumps like a fucking anime girl at a donald trump rally" 
 
-    - "No, that's disgusting." - George 2025
+!!! max
+    
+    "isnt pocket dimension a minecraft version" 
 
-- "I keep punting it with my tip." - Jason 21 2025
+!!! ethan
+    
+    "GUYS I LOVE CREAM" 
 
-- "How do you ring a doorbell???" - George 2025
+!!! ruby
 
-- "Will you marry me Michael?" - George 2025
+    "Fuck her of course" 
 
-- "Boys can get pregnant." - Ruby 2025
+!!! george
+    
+    "Which one is the coloured Joker?"
 
-- "I'm not black, I'm taco." - Tia 2025
+    !!! hez
+    
+        "You are!" 
 
-- "Ow! You hit my forehead!" - George
+!!! misc "Jason 22"
+    
+    "I wish I overdosed on Xanax."
 
-    - "Well, it's not hard to miss." - Kayden 2025
+!!! max
+    
+    "George, do you want to date a gay person?" Max
 
-- "If I ever get jailed by the CPP, I'll say 'No! 我没有狗!'" - Kayden 2025
+    !!! george
+    
+        "No, that's disgusting."  
 
-- "We'll put on his tombstone 'the quantum gay superposition collapsed'" - Ethan 2025
+!!! jason21
+    
+    "I keep punting it with my tip." 
 
-- *Nolan walks up and says something stupid that he thought was funny*
+!!! george
+    
+    "How do you ring a doorbell???" 
 
-    - "Is that a skinwalker?!" - Ethan 2025
+!!! george
+    
+    "Will you marry me Michael?" 
 
-- "Jason Chow has the jawline of a Greek god." - Channi 2025
+!!! ruby
 
-- "I'm not having any butt juice on my cheese." - Ethan 2025
+    "Boys can get pregnant." 
 
-- "A man in China probably fucked that." - Jodi 2025
+!!! tia
+    
+    "I'm not black, I'm taco." 
 
-- "Oh! Oh! Between the legs!" - Max 2025
+!!! george
+    
+    "Ow! You hit my forehead!" George
 
-- "Rarr! I'm a lion bitch! Watch you die because of my claws rarr!" - George 2025
+    !!! kayden
+    
+        "Well, it's not hard to miss." 
 
-- "It's just a bunch of ragebait toddlers." - Kayden 2025
+!!! kayden
+    
+    "If I ever get jailed by the CPP, I'll say 'No! 我没有狗!'" 
 
-- "Who said I wasn't a man?!" - Tia 2025
+!!! ethan
 
-- "You've got all of these holes opening up…" - Mac 2025
+    "We'll put on his tombstone 'the quantum gay superposition collapsed'" 
 
-- "We should add babies to steam engines." - Lochlan 2025
+!!! misc "Nolan"
+    
+    *Walks up and says something unfunny*
 
-- "You had, what, a whole box of Louie Batons?" - Ethan 2025
+    !!! ethan
 
-- "I'm gonna start whipping George - he's been a very bad boy." - Max 2025
+        "Is that a skinwalker?!" 
 
-- "If you guys can get into MACC, I can get into TALONS." - Joyce 2025
+!!! channi
+    
+    "Jason Chow has the jawline of a Greek god." 
 
-- "What's it called when thing get tinier? Tinyify?" - Tia 2025
+!!! ethan
 
-- "Rome and Greece are the same thing right?" - Tia 2025
+    "I'm not having any butt juice on my cheese." 
 
-- "I'm in your hole." - Arjun 2025
+!!! misc "Jodi"
+    
+    "A man in China probably fucked that."
 
-- "Well, he's stuck his toe into a lot of things." - Ethan 2025
+!!! max
+    
+    "Oh! Oh! Between the legs!" 
 
-- "I am torturing my thighs." - Jason 21 2025
+!!! george
+    
+    "Rarr! I'm a lion bitch! Watch you die because of my claws rarr!" 
 
-- "I'm going to cook those big, black men." - Jason 21 2025
+!!! kayden
+    
+    "It's just a bunch of ragebait toddlers." 
 
-- "North Korea has less self-confidence than the average MACC student." - Ruby 2025
+!!! tia
+    
+    "Who said I wasn't a man?!" 
 
-- "Bro, who superglued my extension cord?!" - Channi 2025
+!!! teacher "Ms. Mac"
+    
+    "You've got all of these holes opening up…"
 
-- "I'm going through your mother." - Jason 21 2025
+!!! lochlan
+    
+    "We should add babies to steam engines." 
 
-- "We both definitely have those." - Ethan
+!!! ethan
+    
+    "You had, what, a whole box of Louie Batons?" 
 
-    - "Autism or hyperfixations?" - Ruby
+!!! max
+    
+    "I'm gonna start whipping George he's been a very bad boy." 
 
-    - "Both." - Ethan 2025
+!!! joyce
+    
+    "If you guys can get into MACC, I can get into TALONS." 
 
-- "Western Easterner wants to see my cheeks!" - Channi 2025
+!!! tia
+    
+    "What's it called when thing get tinier? Tinyify?" 
 
-- "Are you drawing a catboy?" - Ruby 2025
+!!! tia
+    
+    "Rome and Greece are the same thing right?" 
 
-    - "It's not a catboy, it's a dogboy!" - Tia 2025
+!!! arjun
+    
+    "I'm in your hole." 
 
-- "There is no condition because I don't know what a condition is" - Tia 2025
+!!! ethan
+    
+    "Well, he's stuck his toe into a lot of things." 
 
-- "If I was a man I would be gay." - Tia 2025
+!!! jason21
+    
+    "I am torturing my thighs."  
 
-- "Tia, you only have two lines of dialogue in your vocabulary and they're 'I'm gonna touch you', and 'I'm a trans woman'." - Joyce 2025
+!!! jason21
+    
+    "I'm going to cook those big, black men."  
 
-- "You can kinda see there's a bulge there." - Michael 2025
+!!! jason21
+    
+    "North Korea has less self-confidence than the average MACC student."  
 
-- "All the California Gurls are burning in the wildfires." - Ethan 2025
+!!! channi
+    
+    "Bro, who superglued my extension cord?!"  
 
-- "What's that guy's name, Pierre Poultry?" - Ruby 2025
+!!! jason21
+    
+    "I'm going through your mother."  
 
-- *sees elementary school*
+!!! channi
 
-    - "Look at all those caged animals!" - Ruby 2025
+    "Wesley wants to see my cheeks!" 
 
-- "'woah a gong ding dong ding dong ding dong wake up its time for morning monk training" - George 2025
+!!! ruby
+    
+    "Are you drawing a catboy?" 
 
-- "Hundreds of babies! Dead!" - Tia 2025
+    !!! tia
+    
+        "It's not a catboy, it's a dogboy!" 
 
-- "No, Ethan's direct ancestor is the one that ate feet." - Hez 2025
+!!! tia
+    
+    "There is no condition because I don't know what a condition is" 
 
-- "If you attack a goose and it says 'bark bark bark', you're cooked." - George 2025
+!!! tia
+    
+    "If I was a man I would be gay." 
 
-- "Stop trying to touch people, that's gay." - Steven 2025
+!!! joyce
+    
+    "Tia, you only have two lines of dialogue in your vocabulary and they're 'I'm gonna touch you', and 'I'm a trans woman'." 
 
-- "I don't like emotion." - Kayden 2025
+!!! michael
+    
+    "You can kinda see there's a bulge there." 
 
-- "I'm going to be the best gay twink ever!" - Tia 2025
+!!! ethan
+    
+    "All the California Gurls are burning in the wildfires." 
 
-- "Kayden just decomposed!" - Michael 2025
+!!! ruby
 
-- "I don't know how high I am." - George 2025
+    "What's that guy's name, Pierre Poultry?" 
 
-- "Why is he black?" - Ruby 2025
+!!! ruby
 
-- "I'm gonna eat that table." - Lochlan 2025
+    *sees elementary school*
 
-- *Shows furry art*
+    "Look at all those caged animals!" 
 
-    - "This is my husband" - Tia 2025
+!!! george
+    
+    "'woah a gong ding dong ding dong ding dong wake up its time for morning monk training" 
 
-- "I love pedophilia." - Ruby 2025
+!!! tia
+    
+    "Hundreds of babies! Dead!" 
 
-- "Max does the beating." - Jack 2025
+!!! hez
+    
+    "No, Ethan's direct ancestor is the one that ate feet." 
 
-- *George sings very high pitched version of *Jingle Bell Rock**
+!!! george
+    
+    "If you attack a goose and it says 'bark bark bark', you're cooked." 
 
-    - "That's very gay" - Kayden 2025
+!!! misc "Steven"
+    
+    "Stop trying to touch people, that's gay."
 
-- "Bestie…" - Emily 2025
+!!! kayden
+    
+    "I don't like emotion." 
 
-    - *Kayden slowly turns head*
+!!! tia
+    
+    "I'm going to be the best gay twink ever!" 
 
-- "✨red bull gives you wings✨" - Ruby 2025
+!!! michael
+    
+    "Kayden just decomposed!" 
 
-- "Let's argue about Christianity." - Max 2025
+!!! george
+    
+    "I don't know how high I am." 
 
-- "Who are you making handcuffs for?" - Ruby 2025
+!!! lochlan
+    
+    "I'm gonna eat that table."
 
-    - "For my husband!" - Tia 2025
+!!! tia
+    
+    *Shows furry art*
+    
+    "This is my husband" 
 
-- "City of Diddy." - Hez 2025
+!!! jack
+    
+    "Max does the beating." 
 
-- "My husband is in desperate need of clothing." - Tia 2025
+!!! george
+    
+    *Sings very high pitched version of *Jingle Bell Rock**
 
-- "I draw my characters oiled up." - Tia 2025
+    !!! kayden
+    
+        "That's very gay"  
 
-- "I don't give consent to get touched by Tia's stick" - Hez 2025
+!!! misc "Emily"
+    
+    "Bestie…"
 
-- "If I cut you up, does it matter if you're a man or not? No, you're just meat." - Ethan 2025
+    !!! kayden
+    
+    *slowly turns head*
 
-- "How do you say erotic DVD in Chinese?" - Max 2025
+!!! max
 
-- "In the end, we can all be cannibals." - Tia 2025
+    "Let's argue about Christianity." 
 
-- "How likely is it that Mao Zedong sleeps naked?" - Max 2025
+!!! ruby
 
-- "You make me dry, I make you wet." - Max 2025
+    "Who are you making handcuffs for?" 
 
-- "Hitler is my main." - Ethan 2025
+    !!! tia
+    
+        "For my husband!" 
 
-- "Who has a thick mom?" - George 2025
+!!! hez
+    
+    "City of Diddy." 
 
-- "What's the difference between African and Indian?" - Jason 21 2025
+!!! tia
+    
+    "My husband is in desperate need of clothing." 
 
-- "i can eat all the organs better in schizoland" - Ethan 2025
+!!! tia
+    
+    "I draw my characters oiled up." 
 
-- "but why are yall not monkeys" - Hez 2025
+!!! hez
+    
+    "I don't give consent to get touched by Tia's stick" 
 
-    - "We are" - Ruby 2025
+!!! ethan
+    
+    "If I cut you up, does it matter if you're a man or not? No, you're just meat." 
 
-- "this bridge is as flat as jason cui's ass" - Kayden 2025
+!!! max
+    
+    "How do you say erotic DVD in Chinese?" 
 
-- "if we were looking for intelligent lifeforms on exoplanets, i don't think these would count" - Kayden 2025
+!!! tia
+    
+    "In the end, we can all be cannibals." 
 
-- ""oouuu est le chat, Max has a gyatt" - Jack 2025
+!!! max
+    
+    "How likely is it that Mao Zedong sleeps naked?" 
 
-- "'Enough with the delay tactics'- bro you're not Air Canada" - Kayden 2025
+!!! max
+    
+    "You make me dry, I make you wet." 
 
-- "Why am I a mom?" - George 2025
+!!! ethan
+    
+    "Hitler is my main." 
 
-- "He's the world's richest Discord mod." - Ruby 2025
+!!! george
+    
+    "Who has a thick mom?"  
 
-- "'Jack, off the horse'. vs 'Jack off the horse.'" - Max 2025
+!!! jason21
+    
+    "What's the difference between African and Indian?" 
 
-- *Lochlan mimics whipping with a ruler*
+!!! ethan
+    
+    "i can eat all the organs better in schizoland" 
 
-    - "I know you're white, but that's not how it works anymore." - Alma 2025
+!!! hez
+    
+    "but why are yall not monkeys" 
+    
+    !!! ruby
 
-- "Why can't I play with yours, is it illegal now?" - George 2025
+        "We are" 
 
-- *cybertruck drives by*
+!!! kayden
+    
+    "this bridge is as flat as jason cui's ass" 
 
-    - "Is that the cyberfridge??" - Kayden 2025
+!!! kayden
+    
+    "if we were looking for intelligent lifeforms on exoplanets, i don't think these would count"
 
-- "i just wanted to ask if you remember the cheese thought loop" - Ruby 2025
+!!! jack 
+    
+    ""oouuu est le chat, Max has a gyatt" 
 
-- "Jason got pink sauce up my ass!" - Jack 2025
+!!! kayden
+    
+    "'Enough with the delay tactics'bro you're not Air Canada" 
 
-- "Kayden I love your parents!" - Ethan 2025
+!!! george
+    
+    "Why am I a mom?" 
 
-- "If life doesn't go as planned, I'll just go to P. Diddy" - Honour 2025
+!!! ruby
 
-- "are you still selling camel plushies" - Ruby
+    "He's the world's richest Discord mod." 
 
-    - "nah im in a war rn" - Hez 2025
+!!! max
+    
+    "'Jack, off the horse'. vs 'Jack off the horse.'" 
 
-- "Just by walking around and existing he's littering." - Ruby 2025
+!!! lochlan
+    
+    *Mimics whipping with a ruler*
 
-- "How do you spray women" - George 2025
+    !!! misc "Alma"
+    
+        "I know you're white, but that's not how it works anymore."
 
-- "He has an ass dent" - Tia 2025
+!!! george
+    
+    "Why can't I play with yours, is it illegal now?" 
 
-- "Step one: uwu" - Kayden 2025
+!!! kayden
+    
+    *cybertruck drives by*
+    
+    "Is that the cyberfridge??" 
 
-- "Always cook your brains before you eat them." - Kayden 2025
+!!! ruby
 
-- "And when God created George, he knew he had gone too far." - Kayden 2025
+    "i just wanted to ask if you remember the cheese thought loop" 
 
-- "I feel so Chinese!" - Lochlan 2025
+!!! jack
+    
+    "Jason got pink sauce up my ass!" 
 
-- "I am… your everything." - George 2025
+!!! ethan
+    
+    "Kayden I love your parents!" 
 
-- "Wasn't the Hiroshima bomb in the Middle Ages?" - Channi 2025
+!!! misc "Honour"
+    
+    "If life doesn't go as planned, I'll just go to P. Diddy"
 
-    - "What is the Hiroshima bomb?" - Honour
+!!! ruby
 
-- "Why would you judge a bird by the color of its feathers?" - Ruby 2025
+    "are you still selling camel plushies"
 
-    - "BECAUSE IT'S BLAAA-" - Kayden 2025
+    !!! hez
+    
+        "nah im in a war rn" 
 
-- "The world needs quality control" - Hez 2025
+!!! ruby
 
-- "Out of my 209 husbands…" - Tia 2025
+    "Just by walking around and existing he's littering." 
 
-- "I would like to buy a body pillow" - Shuang 2025
+!!! george
+    
+    "How do you spray women" 
 
-- "Follow my lead my fellow Alpha Males" - Kayden 2025
+!!! tia
+    
+    "He has an ass dent" 
 
-- "I love me some 9-year-old girls…" - Lochlan 2025
+!!! kayden
+    
+    "Step one: uwu" 
 
-- "harry potter was british propaganda to make the country seem less miserable than it really is" - Ruby 2025
+!!! kayden
+    
+    "Always cook your brains before you eat them." 
 
-- "They’re milking the series so dry the entire movie is probably taking place in a desert" - Ruby 2025
+!!! kayden
+    
+    "And when God created George, he knew he had gone too far." 
 
-- "The immune system is not a bureaucracy, hurry up! We're not the United Nations!" - Kayden 2025
+!!! lochlan
+    
+    "I feel so Chinese!" 
 
-- "I want to see men get periods. It'd be so funny." - Joyce 2025
+!!! george
+    
+    "I am… your everything."  
 
-- "If I'm being blue, everyone's being blue." - Tia 2025
+!!! channi
+    
+    "Wasn't the Hiroshima bomb in the Middle Ages?"  
 
-- "waifus?"
+!!! misc "Honour"
+    
+        "What is the Hiroshima bomb?" Honour
 
-    - "where" - Arjun 2025
+!!! ruby
 
-- "when you have mao zedong, your closest family is communism" - Ruby 2025
+    "Why would you judge a bird by the color of its feathers?" 
 
-- "If I'm going to shank you, I'm going to do it while you're sleeping." - Kayden 2025
+    !!! kayden
+    
+        "BECAUSE IT'S BLAAA-"
 
-- "I have 3 minors in my basement." - George 2025
+!!! hez
+    
+    "The world needs quality control" 
 
-    - "I have more" - Ethan
+!!! tia
+    
+    "Out of my 209 husbands…" 
 
-- "What doesn't bankrupt you makes you stronger." - Kayden 2025
+!!! misc "Shuang"
+    
+    "I would like to buy a body pillow"
 
-- "Gotta be hip with the kids." - Kayden 2025
+!!! kayden
+    
+    "Follow my lead my fellow Alpha Males" 
 
-- "These balls were made for touching." - Max 2025
+!!! lochlan
+    
+    "I love me some 9-year-old girls…" 
+
+!!! ruby
+
+    "harry potter was british propaganda to make the country seem less miserable than it really is" 
+
+!!! ruby
+
+    "They’re milking the series so dry the entire movie is probably taking place in a desert" 
+
+!!! kayden
+    
+    "The immune system is not a bureaucracy, hurry up! We're not the United Nations!" 
+
+!!! joyce
+    
+    "I want to see men get periods. It'd be so funny." 
+
+!!! tia
+    
+    "If I'm being blue, everyone's being blue." 
+
+!!! arjun
+    
+    "waifus?"
+
+    "where" 
+
+!!! ruby
+
+    "when you have mao zedong, your closest family is communism" 
+
+!!! kayden
+    
+    "If I'm going to shank you, I'm going to do it while you're sleeping." 
+
+!!! george
+    
+    "I have 3 minors in my basement." 
+    
+        "I have more" Ethan
+
+!!! kayden
+    
+    "What doesn't bankrupt you makes you stronger." 
+
+!!! kayden
+    
+    "Gotta be hip with the kids." 
+
+!!! max
+    
+    "These balls were made for touching." 
