@@ -163,6 +163,18 @@ html .md-footer-meta.md-typeset a {
     margin: 0 0 0;
 }
 
+.md-typeset h2 {
+    font-size: 3em;
+    line-height: 1;
+    margin: 0 0 0;
+}
+
+.md-typeset h3 {
+    font-size: 2em;
+    line-height: 1;
+    margin: 0 0 0;
+}
+
 /* sidebar alignment */
 .md-sidebar {
     padding: 0rem 0;
