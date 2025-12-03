@@ -10,6 +10,6 @@ subtitle: please don't look
 
 *Cringeworthy crap from the early shipping days of MISC...*
 
-MACC Conquest (Rat, Jarnman, Strawberry): [PDF](../assets/doc/macc/MACC%20Conquest.pdf)
+MACC Conquest (Ethan, Arjun, StrawRuby): [PDF](../assets/doc/macc/MACC%20Conquest.pdf)
 
-MACC Lore V1 (Jarnman): [PDF](../assets/doc/macc/MaccLore1.pdf)
+MACC Lore V1 (Arjun): [PDF](../assets/doc/macc/MaccLore1.pdf)

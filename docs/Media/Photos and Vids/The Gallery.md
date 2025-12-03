@@ -283,3 +283,47 @@ icon: material/image-frame
 ![](../../assets/img/20250618_140226.webp){: style="height: 40vw;"}
 
 ![](../../assets/img/20250618_140248.webp){: style="height: 40vw;"}
+
+![](../../assets/img/0CA2C0B4-AB84-4E6B-9A23-3E0EE6176366.jpg){: style="height: 40vw;"}
+
+![](../../assets/img/62009BD3-1518-45EC-BDD3-1101FF95108A.jpg){: style="height: 40vw;"}
+
+![type:video](../../assets/vid/7BB6CA1A-6F6B-466E-A495-EF1C33C4565C.mp4){: style="height: 40vw;"}
+
+![](../../assets/img/D296C7DE-490C-49B8-84AB-28189CC1CB30.jpg){: style="height: 40vw;"}
+
+![](../../assets/img/F5E87CA7-8279-4136-A818-8C288C54C6B1.jpg){: style="height: 40vw;"}
+
+![](../../assets/img/4A0269B5-0347-4081-B592-6BF3E1E7085C.jpg){: style="height: 40vw;"}
+
+![](../../assets/img/CD6D73B2-F3F6-4474-BE88-0AFE3674878F.jpg){: style="height: 40vw;"}
+
+![](../../assets/img/AD4188C7-3A34-453B-BD3E-C6E063184CE9.jpg){: style="height: 40vw;"}
+
+![](../../assets/img/4B7491A6-8F4D-4081-B623-E119D6309B73.jpg){: style="height: 40vw;"}
+
+![](../../assets/img/9058D0ED-F840-41A7-B0A5-A3ED7D14F578.jpg){: style="height: 40vw;"}
+
+![](../../assets/img/IMG20250829154242.jpg){: style="height: 40vw;"}
+
+![](../../assets/img/IMG20250829175722.jpg){: style="height: 40vw;"}
+
+![](../../assets/img/IMG20250906190039.jpg){: style="height: 40vw;"}
+
+![](../../assets/img/IMG20250906190703.jpg){: style="height: 40vw;"}
+
+![](../../assets/img/IMG20250906193159.jpg){: style="height: 40vw;"}
+
+![](../../assets/img/IMG20250924152313.jpg){: style="height: 40vw;"}
+
+![](../../assets/img/IMG_7423.jpg){: style="height: 40vw;"}
+
+![](../../assets/img/IMG20251125143539.jpg){: style="height: 40vw;"}
+
+![](../../assets/img/IMG20251031114427.jpg){: style="height: 40vw;"}
+
+![](../../assets/img/IMG20251031114427_01.jpg){: style="height: 40vw;"}
+
+![](../../assets/img/IMG20251031114432_01.jpg){: style="height: 40vw;"}
+
+![type:video](../../assets/vid/VID20251031114527.mp4){: style="height: 40vw;"}

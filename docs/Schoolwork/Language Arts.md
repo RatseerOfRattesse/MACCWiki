@@ -21,19 +21,19 @@ Arjun's Comic IRP (For Alan Gratz' Allies): [PNG](../assets/img/eye_are_pea_6.we
 ### Dear Future Me
 *Write a letter to your future self.*
 
-Jarnman's: [PDF](../assets/doc/examples/Dear%20Future%20MACC%20(Arjun).pdf)
+Arjun's: [PDF](../assets/doc/examples/Dear%20Future%20MACC%20(Arjun).pdf)
 
 ### Superhero Short Story
 
 *Invent a superhero and write a goofy ahh short story about it. This was a big event for the whole Bear pod where we also went to a convention and dressed up and did weird stuff.*
 
-I Got Caught Doing Resurrection Magic And Now I'm Being Hunted By The Undead Black Market (Rat's): [PDF](../assets/doc/examples/IGCDRMANIBHBTUBM.pdf)
+I Got Caught Doing Resurrection Magic And Now I'm Being Hunted By The Undead Black Market (Ethan's): [PDF](../assets/doc/examples/IGCDRMANIBHBTUBM.pdf)
 
 ### Short Story Group Project
 
 *Form a group of four and create a meaningful short story.*
 
-Rat, Abraham, Shelly, and Violet's: [PDF](../assets/doc/examples/Short%20Story%20Group%20Project%20(RASV).pdf)
+Ethan, Michael, Shelly, and Violet's: [PDF](../assets/doc/examples/Short%20Story%20Group%20Project%20(RASV).pdf)
 
 ### Eleven Story Analysis
 
@@ -49,7 +49,7 @@ The Yellow Wallpaper by Charlotte Perkins Gilman: [PDF](../assets/doc/schoolwork
 ### TED Talks
 *Make a TED Talk.*
 
-Jarnman's Presentation (Procrastination): [PowerPoint](../assets/doc/examples/ted%20talk%20slides.pptx)
+Arjun's Presentation (Procrastination): [PowerPoint](../assets/doc/examples/ted%20talk%20slides.pptx)
 
 ### Spelling Tests
 *Self Explanatory.*
@@ -59,4 +59,4 @@ Gr7 Word Lists: [ZIP](../assets/doc/schoolwork/Spelling.zip)
 ### Choose Your Own Adventure
 *Make a CYOA.*
 
-Durtler's: [PDF](../assets/doc/examples/CYOA%20.pdf)
+Hez's: [PDF](../assets/doc/examples/CYOA%20.pdf)

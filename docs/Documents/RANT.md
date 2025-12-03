@@ -10,6 +10,6 @@ subtitle: Angry writing >:(
 
 *The gang gets to be super angry on a piece of digital paper.*
 
-Artificial Idiocy's Absymal Imitations (Rat): [PDF](../assets/doc/macc/Artificial%20Idiocy's%20Abysmal%20Imitations.pdf)
+Artificial Idiocy's Absymal Imitations (Ethan): [PDF](../assets/doc/macc/Artificial%20Idiocy's%20Abysmal%20Imitations.pdf)
 
-It's So Sipover (Rat): [PDF](../assets/doc/macc/It's%20So%20Sipover.pdf)
+It's So Sipover (Ethan): [PDF](../assets/doc/macc/It's%20So%20Sipover.pdf)

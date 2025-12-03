@@ -8,7 +8,7 @@ icon: material/image-frame
 
 ### Gonna be Gonna be BROKEN
 
-*A series of parodies made for satirical purposes by Old Man, Egg, Rat, Lion, and Jarnman*
+*A series of parodies made for satirical purposes by Kayden, George, Ethan, Lion, and Arjun*
 
 ## Broken (parody of golden):
 

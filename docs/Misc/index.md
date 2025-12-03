@@ -16,7 +16,7 @@ icon: material/file-cabinet
 
     ---
 
-    A simple video game made by Rat and Old Man for the Daydream Vancouver Jam and later entered into Daydream Global, where it earned #34 out of around 250 games.
+    A simple video game made by Ethan and Kayden for the Daydream Vancouver Jam and later entered into Daydream Global, where it earned #34 out of around 250 games.
 
     [:octicons-arrow-right-24: Choose To Lose](https://ratseerofrattesse.itch.io/choose-to-lose)
 
@@ -24,7 +24,7 @@ icon: material/file-cabinet
 
     ---
 
-    Goofy high fantasy book series by Rat that's never gonna get finished. Lots of dark humour, dialogue, and peripheral character development + migraine inducing worldbuilding
+    Goofy high fantasy book series by Ethan that's never gonna get finished. Lots of dark humour, dialogue, and peripheral character development + migraine inducing worldbuilding
 
     [:octicons-arrow-right-24: Chronicles of the Aethein](https://ratseerofrattesse.github.io/COAWiki)
 
@@ -32,7 +32,7 @@ icon: material/file-cabinet
 
     ---
 
-    Biblical style retelling of Drehmal by Rat.
+    Biblical style retelling of Drehmal by Ethan.
 
     [:octicons-arrow-right-24: Ishtorh fahn Drehmal](../assets/doc/macc/Ishtorh%20fahn%20Drehmal.pdf)
 

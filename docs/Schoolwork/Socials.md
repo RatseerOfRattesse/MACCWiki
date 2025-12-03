@@ -18,22 +18,22 @@ icon: material/school
 
 2024 YEAR A TLDR: [PDF](../assets/doc/schoolwork/Global%20Holiday%20Traditions.pdf)
 
-Sango & Rat's Notes: [PDF](../assets/doc/examples/Christmas%20Traditions%20Kahoot%20(Sango%20and%20Rat).pdf)
+Sango & Ethan's Notes: [PDF](../assets/doc/examples/Christmas%20Traditions%20Kahoot%20(Sango%20and%20Ethan).pdf)
 
 ### Feudal System Journal
 
 *Write a journal from the perspective of someone living in the European or Japanese feudal system.*
 
-Rat's: [PDF](../assets/doc/examples/Feudal%20System%20Journal%20Rat.pdf) 
+Ethan's: [PDF](../assets/doc/examples/Feudal%20System%20Journal%20Ethan.pdf) 
 
 ### Manor Map
 
 *Study the layout of medieval manors and create your own with a map, then write some overview on how your map works.*
 
-Rat's: [PDF](../assets/doc/examples/Manor%20Mapping%20Report.pdf)
+Ethan's: [PDF](../assets/doc/examples/Manor%20Mapping%20Report.pdf)
 
 ### Early Humans
 
 *Study and present an early human species*
 
-Jarnmans: [PDF](../assets/doc/examples/Early%20Humans%20Content%20and%20Sources.pdf)
+Arjuns: [PDF](../assets/doc/examples/Early%20Humans%20Content%20and%20Sources.pdf)

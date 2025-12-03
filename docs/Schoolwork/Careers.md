@@ -14,9 +14,9 @@ icon: material/school
 
 *Practice marketing and targetted audience by making a cereal brand.*
 
-Jarnman's: [PDF](../assets/doc/examples/BigBox.zip)
+Arjun's: [PDF](../assets/doc/examples/BigBox.zip)
 
-Durtler's: [PDF](../assets/doc/examples/Cereal%20Box.pdf)
+Hez's: [PDF](../assets/doc/examples/Cereal%20Box.pdf)
 
 ### Advert Analysis
 

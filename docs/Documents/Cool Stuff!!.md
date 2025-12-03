@@ -10,12 +10,12 @@ subtitle: Crazy = Genius
 
 *Cool stuff!!!!!*
 
-Civ Sim MISC Edition Old Rules (new ones indev) (Rat): [PDF](../assets/doc/macc/Civ%20Sim-%20MISC%20EDITION%20OLD.pdf)
+Civ Sim MISC Edition Old Rules (new ones indev) (Ethan): [PDF](../assets/doc/macc/Civ%20Sim-%20MISC%20EDITION%20OLD.pdf)
 
-MACC Hero Shooter Idea (George): [PDF](../assets/doc/macc/Macc%20Hero%20shooter%20idea%20whatever.pdf
+MACC Hero Shooter Idea (George): [PDF](../assets/doc/macc/Macc%20Hero%20shooter%20idea%20whatever.pdf)
 
-Rat, Berry, Old Man, Adam, Abraham's Atomic Theory Timeline(extending and pretty funny ngl): [PDF](../assets/doc/examples/atomic%20theory%20timeline.pdf))
+Ethan, Ruby, Kayden, Adam, Michael's Atomic Theory Timeline(extending and pretty funny ngl): [PDF](../assets/doc/examples/atomic%20theory%20timeline.pdf))
 
-SCP-9037 (Rat, Old Man, and Egg): [Link](https://scp-wiki.wikidot.com/scp-9037)
+SCP-9037 (Ethan, Kayden, and George): [Link](https://scp-wiki.wikidot.com/scp-9037)
 
-Liam Vickers Archive (Rat): [PDF](../assets/doc/macc/Liam%20Vickers%20Archive.pdf)
+Liam Vickers Archive (Ethan): [PDF](../assets/doc/macc/Liam%20Vickers%20Archive.pdf)
