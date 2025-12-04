@@ -1,0 +1,582 @@
+@import url('https://fonts.googleapis.com/css2?family=Carrois+Gothic+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Funnel+Display:wght@300..800&display=swap');
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Carrois Gothic SC', sans-serif;
+}
+
+h2, h3{
+    font-weight: bold;
+}
+
+ul, ol {
+    line-height: 115%;
+}
+
+:root {
+    --md-text-font: "Gentium Book Plus";
+}
+
+:root {
+  --md-admonition-icon--ruby: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 17h3l2-4V7h-6v6h3M6 17h3l2-4V7H5v6h3z"/></svg>')
+}
+.md-typeset .admonition.ruby,
+.md-typeset details.ruby {
+  border-color: rgb(237, 62, 114);
+}
+.md-typeset .ruby > .admonition-title {
+    font-family: 'Carrois Gothic SC', sans-serif;
+}
+.md-typeset .ruby > summary {
+  background-color: rgba(237, 62, 114, 0.1);
+}
+.md-typeset .ruby > .admonition-title::before,
+.md-typeset .ruby > summary::before {
+  background-color: rgb(237, 62, 114);
+  -webkit-mask-image: var(--md-admonition-icon--ruby);
+          mask-image: var(--md-admonition-icon--ruby);
+}
+
+:root {
+  --md-admonition-icon--ethan: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 17h3l2-4V7h-6v6h3M6 17h3l2-4V7H5v6h3z"/></svg>')
+}
+.md-typeset .admonition.ethan,
+.md-typeset details.ethan {
+  border-color: rgb(213, 30, 230);
+}
+.md-typeset .ethan > .admonition-title {
+    font-family: 'Carrois Gothic SC', sans-serif;
+}
+.md-typeset .ethan > summary {
+  background-color: rgba(213, 30, 230, 0.1);
+}
+.md-typeset .ethan > .admonition-title::before,
+.md-typeset .ethan > summary::before {
+  background-color: rgb(213, 30, 230);
+  -webkit-mask-image: var(--md-admonition-icon--ethan);
+          mask-image: var(--md-admonition-icon--ethan);
+}
+
+:root {
+  --md-admonition-icon--kayden: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 17h3l2-4V7h-6v6h3M6 17h3l2-4V7H5v6h3z"/></svg>')
+}
+.md-typeset .admonition.kayden,
+.md-typeset details.kayden {
+  border-color: rgb(36, 52, 179);
+}
+.md-typeset .kayden > .admonition-title {
+    font-family: 'Carrois Gothic SC', sans-serif;
+}
+.md-typeset .kayden > summary {
+  background-color: rgba(36, 52, 179, 0.1);
+}
+.md-typeset .kayden > .admonition-title::before,
+.md-typeset .kayden > summary::before {
+  background-color: rgb(36, 52, 179);
+  -webkit-mask-image: var(--md-admonition-icon--kayden);
+          mask-image: var(--md-admonition-icon--kayden);
+}
+
+:root {
+  --md-admonition-icon--george: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 17h3l2-4V7h-6v6h3M6 17h3l2-4V7H5v6h3z"/></svg>')
+}
+.md-typeset .admonition.george,
+.md-typeset details.george {
+  border-color: rgb(204, 198, 120);
+}
+.md-typeset .george > .admonition-title {
+    font-family: 'Carrois Gothic SC', sans-serif;
+}
+.md-typeset .george > summary {
+  background-color: rgba(204, 198, 120, 0.1);
+}
+.md-typeset .george > .admonition-title::before,
+.md-typeset .george > summary::before {
+  background-color: rgb(204, 198, 120);
+  -webkit-mask-image: var(--md-admonition-icon--george);
+          mask-image: var(--md-admonition-icon--george);
+}
+
+:root {
+  --md-admonition-icon--teacher: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 17h3l2-4V7h-6v6h3M6 17h3l2-4V7H5v6h3z"/></svg>')
+}
+.md-typeset .admonition.teacher,
+.md-typeset details.teacher {
+  border-color: rgb(82, 83, 105);
+}
+.md-typeset .teacher > .admonition-title {
+    font-family: 'Carrois Gothic SC', sans-serif;
+}
+.md-typeset .teacher > summary {
+  background-color: rgba(82, 83, 105, 0.1);
+}
+.md-typeset .teacher > .admonition-title::before,
+.md-typeset .teacher > summary::before {
+  background-color: rgb(82, 83, 105);
+  -webkit-mask-image: var(--md-admonition-icon--teacher);
+          mask-image: var(--md-admonition-icon--teacher);
+}
+
+:root {
+  --md-admonition-icon--lochlan: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 17h3l2-4V7h-6v6h3M6 17h3l2-4V7H5v6h3z"/></svg>')
+}
+.md-typeset .admonition.lochlan,
+.md-typeset details.lochlan {
+  border-color: rgb(89, 168, 100);
+}
+.md-typeset .lochlan > .admonition-title {
+    font-family: 'Carrois Gothic SC', sans-serif;
+}
+.md-typeset .lochlan > summary {
+  background-color: rgba(89, 168, 100, 0.1);
+}
+.md-typeset .lochlan > .admonition-title::before,
+.md-typeset .lochlan > summary::before {
+  background-color: rgb(89, 168, 100);
+  -webkit-mask-image: var(--md-admonition-icon--lochlan);
+          mask-image: var(--md-admonition-icon--lochlan);
+}
+
+:root {
+  --md-admonition-icon--arjun: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 17h3l2-4V7h-6v6h3M6 17h3l2-4V7H5v6h3z"/></svg>')
+}
+.md-typeset .admonition.arjun,
+.md-typeset details.arjun {
+  border-color: rgb(176, 105, 30);
+}
+.md-typeset .arjun > .admonition-title {
+    font-family: 'Carrois Gothic SC', sans-serif;
+}
+.md-typeset .arjun > summary {
+  background-color: rgba(176, 105, 30, 0.1);
+}
+.md-typeset .arjun > .admonition-title::before,
+.md-typeset .arjun > summary::before {
+  background-color: rgb(176, 105, 30);
+  -webkit-mask-image: var(--md-admonition-icon--arjun);
+          mask-image: var(--md-admonition-icon--arjun);
+}
+
+:root {
+  --md-admonition-icon--misc: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 17h3l2-4V7h-6v6h3M6 17h3l2-4V7H5v6h3z"/></svg>')
+}
+.md-typeset .admonition.misc,
+.md-typeset details.misc {
+  border-color: rgb(30, 176, 105);
+}
+.md-typeset .misc > .admonition-title {
+    font-family: 'Carrois Gothic SC', sans-serif;
+}
+.md-typeset .misc > summary {
+  background-color: rgba(30, 176, 105, 0.1);
+}
+.md-typeset .misc > .admonition-title::before,
+.md-typeset .misc > summary::before {
+  background-color: rgb(30, 176, 105);
+  -webkit-mask-image: var(--md-admonition-icon--misc);
+          mask-image: var(--md-admonition-icon--misc);
+}
+
+:root {
+  --md-admonition-icon--michael: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 17h3l2-4V7h-6v6h3M6 17h3l2-4V7H5v6h3z"/></svg>')
+}
+.md-typeset .admonition.michael,
+.md-typeset details.michael {
+  border-color: rgb(89, 24, 58);
+}
+.md-typeset .michael > .admonition-title {
+    font-family: 'Carrois Gothic SC', sans-serif;
+}
+.md-typeset .michael > summary {
+  background-color: rgba(89, 24, 58, 0.1);
+}
+.md-typeset .michael > .admonition-title::before,
+.md-typeset .michael > summary::before {
+  background-color: rgb(89, 24, 58);
+  -webkit-mask-image: var(--md-admonition-icon--michael);
+          mask-image: var(--md-admonition-icon--michael);
+}
+
+:root {
+  --md-admonition-icon--tia: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 17h3l2-4V7h-6v6h3M6 17h3l2-4V7H5v6h3z"/></svg>')
+}
+.md-typeset .admonition.tia,
+.md-typeset details.tia {
+  border-color: rgb(50, 230, 209);
+}
+.md-typeset .tia > .admonition-title {
+    font-family: 'Carrois Gothic SC', sans-serif;
+}
+.md-typeset .tia > summary {
+  background-color: rgba(50, 230, 209, 0.1);
+}
+.md-typeset .tia > .admonition-title::before,
+.md-typeset .tia > summary::before {
+  background-color: rgb(50, 230, 209);
+  -webkit-mask-image: var(--md-admonition-icon--tia);
+          mask-image: var(--md-admonition-icon--tia);
+}
+
+:root {
+  --md-admonition-icon--joyce: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 17h3l2-4V7h-6v6h3M6 17h3l2-4V7H5v6h3z"/></svg>')
+}
+.md-typeset .admonition.joyce,
+.md-typeset details.joyce {
+  border-color: rgb(85, 72, 148);
+}
+.md-typeset .joyce > .admonition-title {
+    font-family: 'Carrois Gothic SC', sans-serif;
+}
+.md-typeset .joyce > summary {
+  background-color: rgba(85, 72, 148, 0.1);
+}
+.md-typeset .joyce > .admonition-title::before,
+.md-typeset .joyce > summary::before {
+  background-color: rgb(85, 72, 148);
+  -webkit-mask-image: var(--md-admonition-icon--joyce);
+          mask-image: var(--md-admonition-icon--joyce);
+}
+
+:root {
+  --md-admonition-icon--max: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 17h3l2-4V7h-6v6h3M6 17h3l2-4V7H5v6h3z"/></svg>')
+}
+.md-typeset .admonition.max,
+.md-typeset details.max {
+  border-color: rgb(148, 98, 72);
+}
+.md-typeset .max > .admonition-title {
+    font-family: 'Carrois Gothic SC', sans-serif;
+}
+.md-typeset .max > summary {
+  background-color: rgba(148, 98, 72, 0.1);
+}
+.md-typeset .max > .admonition-title::before,
+.md-typeset .max > summary::before {
+  background-color: rgb(148, 98, 72);
+  -webkit-mask-image: var(--md-admonition-icon--max);
+          mask-image: var(--md-admonition-icon--max);
+}
+
+:root {
+  --md-admonition-icon--jack: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 17h3l2-4V7h-6v6h3M6 17h3l2-4V7H5v6h3z"/></svg>')
+}
+.md-typeset .admonition.jack,
+.md-typeset details.jack {
+  border-color: rgb(217, 191, 24);
+}
+.md-typeset .jack > .admonition-title {
+    font-family: 'Carrois Gothic SC', sans-serif;
+}
+.md-typeset .jack > summary {
+  background-color: rgba(217, 191, 24, 0.1);
+}
+.md-typeset .jack > .admonition-title::before,
+.md-typeset .jack > summary::before {
+  background-color: rgb(217, 191, 24);
+  -webkit-mask-image: var(--md-admonition-icon--jack);
+          mask-image: var(--md-admonition-icon--jack);
+}
+
+
+:root {
+  --md-admonition-icon--hez: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 17h3l2-4V7h-6v6h3M6 17h3l2-4V7H5v6h3z"/></svg>')
+}
+.md-typeset .admonition.hez,
+.md-typeset details.hez {
+  border-color: rgb(21, 217, 214);
+}
+.md-typeset .hez > .admonition-title {
+    font-family: 'Carrois Gothic SC', sans-serif;
+}
+.md-typeset .hez > summary {
+  background-color: rgba(21, 217, 214, 0.1);
+}
+.md-typeset .hez > .admonition-title::before,
+.md-typeset .hez > summary::before {
+  background-color: rgb(21, 217, 214);
+  -webkit-mask-image: var(--md-admonition-icon--hez);
+          mask-image: var(--md-admonition-icon--hez);
+}
+
+:root {
+  --md-admonition-icon--jason21: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 17h3l2-4V7h-6v6h3M6 17h3l2-4V7H5v6h3z"/></svg>')
+}
+.md-typeset .admonition.jason21,
+.md-typeset details.jason21 {
+  border-color: rgb(61, 47, 43);
+}
+.md-typeset .jason21 > .admonition-title {
+    font-family: 'Carrois Gothic SC', sans-serif;
+}
+.md-typeset .jason21 > summary {
+  background-color: rgba(61, 47, 43, 0.1);
+}
+.md-typeset .jason21 > .admonition-title::before,
+.md-typeset .jason21 > summary::before {
+  background-color: rgb(61, 47, 43);
+  -webkit-mask-image: var(--md-admonition-icon--jason21);
+          mask-image: var(--md-admonition-icon--jason21);
+}
+
+:root {
+  --md-admonition-icon--channi: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 17h3l2-4V7h-6v6h3M6 17h3l2-4V7H5v6h3z"/></svg>')
+}
+.md-typeset .admonition.channi,
+.md-typeset details.channi {
+  border-color: rgb(145, 191, 38);
+}
+.md-typeset .channi > .admonition-title {
+    font-family: 'Carrois Gothic SC', sans-serif;
+}
+.md-typeset .channi > summary {
+  background-color: rgba(145, 191, 38, 0.1);
+}
+.md-typeset .channi > .admonition-title::before,
+.md-typeset .channi > summary::before {
+  background-color: rgb(145, 191, 38);
+  -webkit-mask-image: var(--md-admonition-icon--channi);
+          mask-image: var(--md-admonition-icon--channi);
+}
+
+:root {
+  --md-admonition-icon--chuck: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14 17h3l2-4V7h-6v6h3M6 17h3l2-4V7H5v6h3z"/></svg>')
+}
+.md-typeset .admonition.chuck,
+.md-typeset details.chuck {
+  border-color: rgb(130, 125, 94);
+}
+.md-typeset .chuck > .admonition-title {
+    font-family: 'Carrois Gothic SC', sans-serif;
+}
+.md-typeset .chuck > summary {
+  background-color: rgba(130, 125, 94, 0.1);
+}
+.md-typeset .chuck > .admonition-title::before,
+.md-typeset .chuck > summary::before {
+  background-color: rgb(130, 125, 94);
+  -webkit-mask-image: var(--md-admonition-icon--chuck);
+          mask-image: var(--md-admonition-icon--chuck);
+}
+
+.md-header__topic {
+    font-family: 'Carrois Gothic SC', sans-serif;
+    font-size: 2rem;
+}
+
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
+    height: 2.5rem;
+}
+
+.md-header__button.md-logo {
+    margin: .1rem;
+    padding: .2rem;
+}
+
+body {
+    background-image: url('../assets/background.png');
+    background-repeat: repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+[data-md-color-scheme=slate] {
+    --md-typeset-color: hsl(0deg 0% 100%);
+    --md-default-bg-color: hsl(340deg 82.04% 51.96%);
+    --md-footer-bg-color: hsl(340deg 54.38% 32.75% / 32%);
+    --md-footer-bg-color--dark: hsl(340deg 54.38% 32.75% / 32%);
+    --md-admonition-bg-color: hsl(340deg 20.41% 9.02%);
+}
+
+/* fixing nav sidebars */
+.md-nav {
+    background: hsl(340deg 82.04% 51.96% / 32%);
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+@media screen and (min-width: 76.25em) {
+    .md-nav--lifted>.md-nav__list>.md-nav__item--active>.md-nav__link {
+        background: hsl(340deg 82.04% 51.96% / 0%);
+        box-shadow: 0 0 .4rem .4rem hsl(340deg 82.04% 51.96% / 0%);
+        margin-top: 0;
+        position: sticky;
+        top: 0;
+        z-index: 1;
+    }
+}
+
+@media screen and (min-width: 60em) {
+    .md-nav--secondary .md-nav__title {
+        background: hsl(340deg 82.04% 51.96% / 0%);
+        box-shadow: 0 0 .4rem .4rem hsl(340deg 82.04% 51.96% / 0%);
+        position: sticky;
+        top: 0;
+        z-index: 1;
+    }
+}
+
+.md-nav__title {
+    color: #ed5487;
+    display: block;
+    font-weight: 700;
+    overflow: hidden;
+    padding: 0 .6rem;
+    text-overflow: ellipsis;
+}
+
+.md-nav__list {
+    background: hsl(340deg 82.04% 51.96% / 32%);
+}
+
+/* fixing back to top button */
+
+.md-top {
+    color: hsl(0deg 0% 100%);
+}
+
+/* weird stuff in the footer that was separate for some reason - making the text white */
+.md-copyright {
+    color: #ffffff;
+}
+
+.md-copyright__highlight {
+    color: #ffffff;
+}
+
+html .md-footer-meta.md-typeset a {
+    color: #ffffff;
+}
+
+
+/* annotations */
+.md-annotation__index {
+    --md-default-bg-color: hsl(340deg 62.03% 15.84%);
+}
+
+.md-tooltip {
+    color: hsl(0deg 0% 100%);
+}
+
+/* blog sidebars are weird idk */
+@media screen and (min-width: 76.25em) {
+    .md-nav--primary .md-nav__title {
+        background: hsl(340deg 82.04% 51.96% / 0%);
+        box-shadow: 0 0 .4rem .4rem hsl(340deg 82.04% 51.96% / 0%);
+        position: sticky;
+        top: 0;
+        z-index: 1;
+    }
+}
+
+/* border around main box */
+.md-content {
+    background: hsl(340deg 82.04% 51.96% / 32%);
+    flex-grow: 1;
+    min-width: 0;
+}
+
+/* heading colours were weird */
+.md-typeset h1 {
+    color: #ffffff;
+    font-size: 6em;
+    line-height: 1;
+    margin: 0 0 0;
+}
+
+.md-typeset h2 {
+    font-size: 3em;
+    line-height: 1;
+    margin: 0 0 0;
+}
+
+.md-typeset h3 {
+    font-size: 2em;
+    line-height: 1;
+    margin: 0 0 0;
+}
+
+/* sidebar alignment */
+.md-sidebar {
+    padding: 0rem 0;
+    order: 1;
+}
+
+/* main content alignment */
+.md-grid {
+    margin-left: 10vw;
+    max-width: 70;
+}
+
+.md-typeset .admonition,
+.md-typeset details {
+  border-width: 0;
+  border-left-width: 4px;
+}
+
+.md-typeset .mdx-iconsearch {
+    background-color: var(--md-default-bg-color);
+    box-shadow: var(--md-shadow-z1);
+    position: relative;
+    border-radius: 0.1rem;
+    transition: box-shadow 125ms;
+}
+
+.md-typeset .mdx-iconsearch .md-input {
+    box-shadow: none;
+    background: var(--md-default-bg-color);
+}
+
+[data-md-color-scheme="slate"] .md-typeset .mdx-iconsearch .md-input {
+    background: var(--md-code-bg-color);
+}
+
+.md-typeset .mdx-iconsearch-result {
+    backface-visibility: hidden;
+    max-height: 50vh;
+    overflow-y: auto;
+    scrollbar-color: var(--md-default-fg-color--lighter) #0000;
+    scrollbar-width: thin;
+    touch-action: pan-y;
+}
+
+.md-typeset .mdx-iconsearch-result__select {
+    background-color: var(--md-default-fg-color--lightest);
+    color: var(--md-default-fg-color--light);
+    font-size: 0.64rem;
+    padding-bottom: 0.15em;
+    padding-top: 0.15em;
+    position: absolute;
+    right: 0.6rem;
+    top: 0.4rem;
+    border-width: initial;
+    border-style: none;
+    border-color: initial;
+    border-image: initial;
+    border-radius: 0.1rem;
+    transition: color 125ms, background-color 125ms;
+}
+
+.md-typeset .mdx-iconsearch-result__select + .mdx-iconsearch-result__meta {
+    right: 4.1rem;
+}
+
+.md-typeset .mdx-iconsearch-result__meta {
+    color: var(--md-default-fg-color--lighter);
+    font-size: 0.64rem;
+    position: absolute;
+    right: 0.6rem;
+    top: 0.4rem;
+}
+
+[dir="ltr"] .md-typeset .mdx-iconsearch-result__list {
+    margin-left: 0px;
+}
+
+.md-typeset .mdx-iconsearch-result__list {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
