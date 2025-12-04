@@ -67,6 +67,22 @@ icon: material/file-cabinet
 
     Ruby and Hez played some DEEP games that involved Hez cracking his watch and have since had some big disagreements, resulting in what Ruby calls generational beef. It’s now so intense that it’s become wagyu steak. Some beef includes Ruby making fun of Hez for getting one point less than her on the math test, Hez making fun of Ruby for not including a graph on a marketing write up, and trying to win tournaments on two player games very deep games.
 
+!!! tip "What d'you think of popcorn?"
+
+    After Ruby asked Ethan what he thought of popcorn for the second time after forgetting the original, it became a bit of an idiom for dementia.
+
+!!! tip "Garfield Kart"
+
+    Garfield Kart is objectively better than all other 'kart' games. It also can bring people back to life.
+
+!!! tip "Smash Karts"
+
+    Most important game.
+
+!!! tip "Birthday Turtles"
+
+    We used to draw turtles on the board for people's birthdays.
+
 ## Fucked Up
 
 *You will get publically lampooned for saying these, but they're kinda funny.*

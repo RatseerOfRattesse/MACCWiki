@@ -1282,7 +1282,7 @@ icon: material/comment-quote-outline
 <li>
 <div class="admonition george">
 <p class="admonition-title">George</p>
-<p class="body"><em>Sings very high pitched version of *Jingle Bell Rock</em>*</p>
+<p class="body"><em>Sings very high pitched version of Jingle Bell Rock</em></p>
 <div class="admonition kayden">
 <p class="admonition-title">Kayden</p>
 <p class="body">"That's very gay"  </p>
@@ -1295,8 +1295,8 @@ icon: material/comment-quote-outline
 <p class="body">"Bestie…"</p>
 <div class="admonition kayden">
 <p class="admonition-title">Kayden</p>
-</div>
 <p class="body"><em>slowly turns head</em></p>
+</div>
 </div>
 </li>
 <li>
