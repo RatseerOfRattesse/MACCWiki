@@ -110,7 +110,6 @@ extra_javascript:
   - javascripts/tablesort.js
   - javascripts/quotesearch.js
 site_url: https://ratseerofrattesse.github.io/MACCWiki
-repo_url: https://github.com/RatseerOfRattesse/MACCWiki
 validation:
   links:
     absolute_links: relative_to_docs
