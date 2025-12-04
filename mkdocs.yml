@@ -106,6 +106,9 @@ markdown_extensions:
 extra_javascript:
   - javascripts/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
+  - javascripts/quotesearch.js
 site_url: https://ratseerofrattesse.github.io/MACCWiki
 repo_url: https://github.com/RatseerOfRattesse/MACCWiki
 validation:

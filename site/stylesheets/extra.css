@@ -515,3 +515,68 @@ html .md-footer-meta.md-typeset a {
   border-width: 0;
   border-left-width: 4px;
 }
+
+.md-typeset .mdx-iconsearch {
+    background-color: var(--md-default-bg-color);
+    box-shadow: var(--md-shadow-z1);
+    position: relative;
+    border-radius: 0.1rem;
+    transition: box-shadow 125ms;
+}
+
+.md-typeset .mdx-iconsearch .md-input {
+    box-shadow: none;
+    background: var(--md-default-bg-color);
+}
+
+[data-md-color-scheme="slate"] .md-typeset .mdx-iconsearch .md-input {
+    background: var(--md-code-bg-color);
+}
+
+.md-typeset .mdx-iconsearch-result {
+    backface-visibility: hidden;
+    max-height: 50vh;
+    overflow-y: auto;
+    scrollbar-color: var(--md-default-fg-color--lighter) #0000;
+    scrollbar-width: thin;
+    touch-action: pan-y;
+}
+
+.md-typeset .mdx-iconsearch-result__select {
+    background-color: var(--md-default-fg-color--lightest);
+    color: var(--md-default-fg-color--light);
+    font-size: 0.64rem;
+    padding-bottom: 0.15em;
+    padding-top: 0.15em;
+    position: absolute;
+    right: 0.6rem;
+    top: 0.4rem;
+    border-width: initial;
+    border-style: none;
+    border-color: initial;
+    border-image: initial;
+    border-radius: 0.1rem;
+    transition: color 125ms, background-color 125ms;
+}
+
+.md-typeset .mdx-iconsearch-result__select + .mdx-iconsearch-result__meta {
+    right: 4.1rem;
+}
+
+.md-typeset .mdx-iconsearch-result__meta {
+    color: var(--md-default-fg-color--lighter);
+    font-size: 0.64rem;
+    position: absolute;
+    right: 0.6rem;
+    top: 0.4rem;
+}
+
+[dir="ltr"] .md-typeset .mdx-iconsearch-result__list {
+    margin-left: 0px;
+}
+
+.md-typeset .mdx-iconsearch-result__list {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}

@@ -12,6 +12,14 @@ icon: material/file-cabinet
 
 <div class="grid cards" markdown>
 
+-   :material-snake:{ .lg .middle } __Inside Joke Encyclopedia__
+
+    ---
+
+    A list of MACC inside jokes
+
+    [:octicons-arrow-right-24: Inside Joke Encyclopedia](Inside%20Joke%20Encyclopedia.md)
+
 -   :material-chevron-right-circle:{ .lg .middle } __Choose To Lose__
 
     ---
